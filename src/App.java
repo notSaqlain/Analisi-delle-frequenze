@@ -3,7 +3,7 @@ import java.util.List;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        BookParser parser = new BookParser("data/commedia.txt");
+        BookParser parser = new BookParser("../data/commedia.txt");
         
         HashMap<String, Integer> freq = new HashMap<>();
         while (true) {

@@ -1,4 +1,4 @@
-## Informazioni
+# Informazioni
 
 1. Devo leggere un file .txt un linea alla volta
 2. Ogni linea viene divisa parola per parola
